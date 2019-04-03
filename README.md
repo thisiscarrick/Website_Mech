@@ -18,3 +18,6 @@ File Name  |      Desription
 index.html |    Main File including the markup lined with stylesheets, bootstrap and images folders.This file is the root of all.
 stylesheets/index.css | overriding styles to pre-exisiting bootstrap classes and for appealing design.
 images | Contains exclusion images from IITG achievements and campus for Mech Dept.
+
+![Website Preview](Homepage.png)
+
