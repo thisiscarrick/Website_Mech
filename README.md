@@ -19,5 +19,10 @@ index.html |    Main File including the markup lined with stylesheets, bootstrap
 stylesheets/index.css | overriding styles to pre-exisiting bootstrap classes and for appealing design.
 images | Contains exclusion images from IITG achievements and campus for Mech Dept.
 
+
+The implemented web page looks as:
+
 ![Website Preview](Homepage.png)
+
+
 
